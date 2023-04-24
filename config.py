@@ -29,6 +29,6 @@ pac = 'k'
 pal = 'dashed'
 paw = 1
 Tr_c = 'royalblue'
-Te_c = 'lightgreen'
+Te_c = 'orangered'
 tick = [0, 2, 4, 6, 8, 10]
 
