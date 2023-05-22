@@ -7,7 +7,8 @@ To make predictions use *"ANN_Prediction.py"* file. It uses the *"ANN_model.h5"*
 <sub>*The simplified molecular-input line-entry system (SMILES) is a specification in the form of a line notation for describing the structure of chemical species using short ASCII strings. You can find the SMILES string of a monomer by entering its "Structure Identifier" (such as name, CAS number, etc.) and selecting the "convert to" option as "SMILES", then clicking on submit, at [Here](https://cactus.nci.nih.gov/chemical/structure).</sub>
 
 ## Packages
-Required packages and thier versions are listed in *"requirements.txt"*.
+Required packages and thier versions are listed in the [requirements](https://github.com/PolymatGIQ/ANN_reactivity_ratios/blob/main/requirements.txt).
 
 ## LICENSE
-Please refer to the [license section](https://github.com/PolymatGIQ/ANN_reactivity_ratios/blob/main/LICENSE.md).
+This repository is licensed under CC BY-NC 4.0.
+For more information please refer to the [license section](https://github.com/PolymatGIQ/ANN_reactivity_ratios/blob/main/LICENSE.md).
