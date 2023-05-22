@@ -10,3 +10,4 @@ To make predictions use *"ANN_Prediction.py"* file. It uses the *"ANN_model.h5"*
 Required packages and thier versions are listed in *"requirements.txt"*.
 
 ## LICENSE
+Please refer to the [license section](https://github.com/PolymatGIQ/ANN_reactivity_ratios/blob/main/LICENSE.md).
